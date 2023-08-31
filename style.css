@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: "poppins";
+}
+fieldset{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(210, 208, 205);
+    border-color: rgb(47, 44, 44);
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(210, 208, 205);
+    border-color: black;
+    border-radius: 5px;
+    justify-content: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(210, 208, 205);
+}
